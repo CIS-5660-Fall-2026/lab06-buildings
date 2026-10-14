@@ -8,4 +8,4 @@ Author: Xuan Zhu (Ronan83)
 
 The custom building HDA and the official SideFX Labs Align and Distribute HDA are embedded in the HIP file. No separate HDA installation, textures, or external geometry files are needed to open the submitted scene.
 
-Use `images/building_hero.png`, `images/building_entrance.png` as supporting images. The Houdini watermark is part of the Apprentice renderer.
+Use `images/building_hero.png`, `images/building_entrance.png` as supporting images.
