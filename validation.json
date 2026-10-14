@@ -1,0 +1,32 @@
+{
+  "design": "Simple two-storey L-shaped courtyard office",
+  "default": {
+    "cells": 68,
+    "primitives": 4924,
+    "points": 6568,
+    "bounds": "[-17, 17, -0.36, 6.83, -9, 21]"
+  },
+  "three_storey_test": {
+    "cells": 102,
+    "primitives": 7956,
+    "points": 10612,
+    "bounds": "[-17, 17, -0.36, 10.03, -9, 21]"
+  },
+  "seed_reproducibility": "passed",
+  "randomization_toggle": "passed",
+  "border_toggle": "passed",
+  "courtyard_dimension_change": "passed",
+  "modules": {
+    "storefront": 33,
+    "door": 1,
+    "window": 29,
+    "blind": 5
+  },
+  "embedded": [
+    "ronan83::office_building::1.0",
+    "labs::align_and_distribute::2.0"
+  ],
+  "external_labs_uninstalled": "passed",
+  "saved_file_reopen": "passed",
+  "node_errors": []
+}
