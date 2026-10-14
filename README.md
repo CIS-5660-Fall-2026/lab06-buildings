@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini
 ### Setup
 The tutorial requires some nodes from `SideFX Labs`. If you haven’t already installed the Labs packages, you can do so at the “Labs/Packages” tab of the Houdini Launcher.
 Make sure that the version of `Labs` that you install is __not__ newer than your overall Houdini install (e.g. if you have Houdini 21.544,
-don't install a package with a higher number). Use the Production version of `Labs`, not the Daily.
+don't install `Labs` 22.650). Use the Production version of `Labs`, not the Daily.
 
 ### Base Project
 Follow the tutorial up through the Placing Assets section (ending at about 27 minutes). Create a simple office-style building with procedurally-placed windows.
