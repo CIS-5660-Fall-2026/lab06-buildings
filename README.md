@@ -1,5 +1,8 @@
 # CIS 5660 Lab 06 Procedural Buildings
 
+<img width="1018" height="1232" alt="image" src="https://github.com/user-attachments/assets/d97d14f0-0994-4b80-a2e4-b08a04fa6cd3" />
+
+
 ## Project Overview
 In this lab, you will follow a Houdini tutorial on using shape grammars to make procedural buildings. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
