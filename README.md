@@ -22,4 +22,5 @@ Give your building color/textures/additional components!
 - Update your README with screenshots or renders of your building.
 - Create a pull request to this repository
 - Submit your Houdini file to Canvas along with a link to your pull request 
-- IMPORTANT NOTE: make sure your HDA is either embedded in the HIP file or included with your submission (see the instructions under “Part 1: Box Stacking HDA” for additional details).
+- IMPORTANT NOTE: make sure your HDA is either embedded in the HIP file or included with your submission. Creating an HDA saves a .hda file at the location you specify with the definition of your HDA. 
+Alternatively, when you save your HDA you can choose the “Embedded in HIP File” option (rather than specifying the path), and the hda definition will be automatically embedded in your hip file (and no additional files will be needed with submission).
