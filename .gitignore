@@ -1,0 +1,5 @@
+backup/
+*.hipnc.bak
+*.hip.bak
+*.tmp
+.DS_Store
